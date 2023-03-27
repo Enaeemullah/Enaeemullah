@@ -7,7 +7,7 @@ One of my biggest strengths is my ability to collaborate effectively with both t
 
 I am constantly seeking out new challenges and opportunities to learn and grow as a developer. Whether it's through attending industry conferences, participating in hackathons, or working on personal projects, I am always looking for ways to improve my skills and stay up-to-date with the latest trends in technology.
 
-Thank you for taking the time to read my bio, and I look forward to the opportunity to work with you on your next project!
+Thank you for taking the time to read my bio!
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/enaeemullah) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/enaeemullah) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enaeemullah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enaeemullah) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Oshomarka8) 
