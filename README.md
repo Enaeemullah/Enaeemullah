@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Naeem and I am a ME[R/A]N stack and Java developer. I have a passion for creating user-friendly, dynamic web applications that make a positive impact on people's lives.
 
-With a strong background in JavaScript, React, and Angular, I specialize in building front-end interfaces that are intuitive, responsive, and visually appealing. Additionally, I have extensive experience working with back-end technologies like Node.js and Express to create robust, scalable APIs that power seamless data transmission between the client and server.
+With a strong background in JavaScript, React, Angular, Node, MongoDB and MySql. I specialize in building front-end interfaces that are intuitive, responsive, and visually appealing. Additionally, I have extensive experience working with back-end technologies like Node.js and Express to create robust, scalable APIs that power seamless data transmission between the client and server.
 
 One of my biggest strengths is my ability to collaborate effectively with both technical and non-technical team members. I am able to communicate complex technical concepts in a way that is easy for others to understand, which has helped me lead successful cross-functional projects in the past.
 
